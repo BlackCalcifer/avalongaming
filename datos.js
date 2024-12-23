@@ -1,7 +1,7 @@
 const datos = [
     { 
         nombre: "Cieitos-Otatrom", 
-        imagen: "nodos/A.png", 
+        imagen: "recursos/Cieitos-Otatrom.png", 
         recursos: [
             { id: "A", cantidad: 1 },
             { id: "D", cantidad: 2 },
