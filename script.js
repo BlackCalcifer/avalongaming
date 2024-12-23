@@ -10,26 +10,27 @@ function buscar() {
     }
 
     resultados.style.display = 'flex'; // Mostrar resultados
-    const juegosFiltrados = datos.filter(juego => juego.nombre.toLowerCase().includes(query));
+    const juegosFiltrados = datos.filter(juego =>
+        juego.nombre.toLowerCase().includes(query)
+    );
 
     juegosFiltrados.forEach(juego => {
         const div = document.createElement('div');
         div.classList.add('resultado');
         div.onclick = () => mostrarModal(juego);
-        
+
         // Generar imágenes y números de los recursos
-        let recursosHtml = '';
-        juego.recursos.forEach(({ id, cantidad }) => {
-            const recurso = recursos[id];
-            if (recurso && cantidad > 0) {
-                recursosHtml += `
-                    <div class="recurso">
-                        <img src="${recurso.imagen}" alt="Recurso ${id}">
-                        <div class="numero">${cantidad}</div>
-                    </div>
-                `;
-            }
-        });
+        const recursosHtml = juego.recursos
+            .filter(recurso => recursos[recurso.tipo] && recurso.cantidad > 0)
+            .map(
+                recurso => `
+                <div class="recurso">
+                    <img src="${recursos[recurso.tipo].imagen}" alt="Recurso ${recurso.tipo}">
+                    <div class="numero">${recurso.cantidad}</div>
+                </div>
+            `
+            )
+            .join('');
 
         div.innerHTML = `
             <img src="${juego.imagen}" alt="${juego.nombre}">
@@ -46,18 +47,17 @@ function mostrarModal(juego) {
     document.getElementById('modal-imagen').src = juego.imagen;
     document.getElementById('modal-nombre').innerText = juego.nombre;
 
-    let recursosHtml = '';
-    juego.recursos.forEach(({ id, cantidad }) => {
-        const recurso = recursos[id];
-        if (recurso && cantidad > 0) {
-            recursosHtml += `
-                <div class="recurso">
-                    <img src="${recurso.imagen}" alt="Recurso ${id}">
-                    <div class="numero">${cantidad}</div>
-                </div>
-            `;
-        }
-    });
+    const recursosHtml = juego.recursos
+        .filter(recurso => recursos[recurso.tipo] && recurso.cantidad > 0)
+        .map(
+            recurso => `
+            <div class="recurso">
+                <img src="${recursos[recurso.tipo].imagen}" alt="Recurso ${recurso.tipo}">
+                <div class="numero">${recurso.cantidad}</div>
+            </div>
+        `
+        )
+        .join('');
 
     document.getElementById('modal-descripcion').innerHTML = recursosHtml;
     modal.style.display = 'block';
