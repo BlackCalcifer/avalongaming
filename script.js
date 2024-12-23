@@ -1,5 +1,5 @@
 const datos = [
-    { nombre: "Juego 1", imagen: "recursos/juego1.png", descripcion: "Descripción del juego 1." },
+    { nombre: "Cieitos-Otatrom", imagen: "recursos/Cieitos-Otatrom.png", descripcion: "Cofres dorados: Santuarios 1, Pasillos 1, Cofres verdes: 6. Nodo de Madera: 2" },
 ];
 
 function buscar() {
