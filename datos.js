@@ -186,113 +186,104 @@ const datos = [
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Siritos-Oyohun t8",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320958235754369106/Siritos-Oyohun_t8.png?ex=676b7db9&is=676a2c39&hm=d71628ec81f1fb61bf5073ee1bea5d369cc05da869f849ee9c54f5ecf3eab387&=&format=webp&quality=lossless&width=465&height=350", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 2 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Suyitos-Oyarlos t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320958836890275840/Suyitos-Oyarlos_t8.png?ex=676b7e48&is=676a2cc8&hm=b1d0a5eeb097f8f79540372cbe5459272583ee6cec5c254bdcb40d682fdb737b&", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "V", cantidad: 6 },
+            { tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Synos-Oyarlos T8",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320960444101558354/Synos-Oyarlos_T8.png?ex=676b7fc8&is=676a2e48&hm=0da4e031a416155ae8bdbb1d119f4d908ac59a4af5a566264381813046eaafee&=&format=webp&quality=lossless&width=446&height=350", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "V", cantidad: 6 },
+            { tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Tilitos-Ataglos t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320960696342544445/Tilitos-Ataglos_t8.png?ex=676b8004&is=676a2e84&hm=25c6a7d8fa5e4e776b6619ec8d0f0f8579f1f84d074c7693eb4a1a8b188b6426&", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 9 },
+			{ tipo: "E", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Touos-Ataglos t8",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320961358044598354/Touos-Ataglos_t8.png?ex=676b80a2&is=676a2f22&hm=8aba2ff6f6208c4742d1b5e3cf9b561835f5ce958f2dc522e306101bbdd234e9&=&format=webp&quality=lossless&width=489&height=350", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 9 },
+			{ tipo: "PI", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Tuyitos-Aboysum t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320961960111767582/Tuyitos-Aboysum_t8.png?ex=676b8131&is=676a2fb1&hm=da3e860ed1588a226e940e288d14a6c5a8d3c8dc110aadbf95852e004a5272f4&", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "D", cantidad: 2 },
+            { tipo: "V", cantidad: 1 },
+			{ tipo: "AL", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Cases-Ugumlos T6",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320962866550931506/Cases-Ugumlos_T6.png?ex=676b8209&is=676a3089&hm=00475ef9ad65ce04c8943e7935f630ac1d4d2256576301bcbcac9da70f0bb458&", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+			{ tipo: "M", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+			{ tipo: "PI", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Settun-In-Nusis t6",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320964116440940716/Settun-In-Nusis_t6.png?ex=676b8333&is=676a31b3&hm=df9988770052669e679074e417ecfe9930a840e763933b178b59c4ee63401f56&", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+			{ tipo: "PI", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Casitos-Atinaum T6",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320965091730128896/Casitos-Atinaum_T6.png?ex=676b841c&is=676a329c&hm=49d220349c4c0cabe633b5b27d77e74fb48b552cd138be25ddfc3992c2261826&=&format=webp&quality=lossless&width=485&height=350", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "D", cantidad: 3 },
+            { tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "AL", cantidad: 1 },
         ],
     },
 	{
-        nombre: "",
-        imagen: "", // Ruta remota
+        nombre: "Casos-Aximam t6",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320965585009381456/Casos-Aximam_t6.png?ex=676b8491&is=676a3311&hm=9ac76f508309ae16574445006f68a83b7dbce27f9f43b90616f318e9cd37afd4&=&format=webp&quality=lossless&width=466&height=350", // Ruta remota
         recursos: [
-			{ tipo: "", cantidad: 1 },
-            { tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
-			{ tipo: "", cantidad: 1 },
+			{ tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 2 },
+			{ tipo: "MI", cantidad: 2 },
+			{ tipo: "E", cantidad: 2 },
         ],
     },
 	{
