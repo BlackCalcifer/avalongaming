@@ -26,6 +26,15 @@ const datos = [
             { tipo: "M", cantidad: 2 },
         ],
     },
+    {
+        nombre: "Ferites-Ohohtum t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320934561793704016/Ferites-Ohohtum_t8.png?ex=676b67ad&is=676a162d&hm=87e3cccfde4d9ec97d106372dc0c4c2c67a6b01d111b099e3ef9bce034c66a7f&", // Ruta remota
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 2 },
+        ],
+    },
 ];
 
 // Mostrar las imágenes en la página
