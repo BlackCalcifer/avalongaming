@@ -10,7 +10,7 @@ const datos = [
     },
     {
         nombre: "Cilos-Otatrom",
-        imagen: "recursos/Cilos-Otatrom.png",
+        imagen: "https://avalonroads-97617.web.app/img/Cilos-Otatrom%20t8.png",
         recursos: [
             { tipo: "D", cantidad: 2 },
             { tipo: "V", cantidad: 6 },
