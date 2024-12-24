@@ -26,11 +26,4 @@ const datos = [
             { tipo: "M", cantidad: 2 },
         ],
     },
-    {
-        nombre: "Ferites-Ohohtum t8",
-        imagen: "recursos/Cieitos-Otatrom.png",
-            { tipo: "V", cantidad: 6 },
-            { tipo: "M", cantidad: 2 },
-        ],
-    },
 ];
