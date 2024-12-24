@@ -34,12 +34,3 @@ const datos = [
         ],
     },
 ];
-
-// Mostrar las imágenes en la página
-datos.forEach((dato) => {
-    const img = document.createElement("img");
-    img.src = dato.imagen; // Carga dinámica de la imagen
-    img.alt = dato.nombre;
-    img.style.width = "300px"; // Ajusta el tamaño según sea necesario
-    document.body.appendChild(img);
-});
