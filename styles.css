@@ -131,9 +131,12 @@ header {
 }
 
 .modal-contenido img {
-    max-width: 70%; /* Asegura que las imágenes dentro del modal no sean demasiado grandes */
-    height: auto;
-    margin-bottom: 20px;
+    display: block; /* Asegura que no se superponga con otros elementos */
+    width: 90%; /* Asegura que todas las imágenes se escalen al 90% del ancho del modal */
+    max-height: 80vh; /* Limita la altura al 80% de la ventana para evitar recortes */
+    object-fit: contain; /* Ajusta la imagen manteniendo sus proporciones */
+    margin: 0 auto; /* Centra la imagen dentro del modal */
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5); /* Opcional: sombra para resaltar */
 }
 
 .cerrar {
