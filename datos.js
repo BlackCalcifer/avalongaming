@@ -63,13 +63,445 @@ const datos = [
         ],
     },
 	{
-        nombre: "Filites-Izohun t8",
-        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320945501192978493/Filites-Izohun_t8.png?ex=676b71dd&is=676a205d&hm=56cfb8dfbb6ebfdb3b69dabd1cc6a4c1ff26d5228fbfa9a69430e9047ba50cd3&=&format=webp&quality=lossless&width=470&height=350", // Ruta remota
+        nombre: "Filitos-Uzazlum t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320947139379200041/Filitos-Uzazlum_t8.png?ex=676b7364&is=676a21e4&hm=287b2b27c74b309f4fda0f17a8b5f8ae0c73d4c2ed302b2802223359124accdd&", // Ruta remota
         recursos: [
+			{ tipo: "V", cantidad: 6 },
+            { tipo: "PI", cantidad: 1 },
+			{ tipo: "AL", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Fones-Opavun t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320949298711494699/Fones-Opavun_t8.png?ex=676b7566&is=676a23e6&hm=23d0aa73f55957f2a97d90105dc04e9c17b6b9909c9218a06bff8be8980f21c7&", // Ruta remota
+        recursos: [
+			{ tipo: "D", cantidad: 3 },
+            { tipo: "V", cantidad: 2 },
+			{ tipo: "M", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Foros-Uzazlum t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320950126327496858/Foros-Uzazlum_t8.png?ex=676b762c&is=676a24ac&hm=8ab6cf2ea53115ad2a203b9725a3253a0cc97e4180125bc728f7441536acf2ea&", // Ruta remota
+        recursos: [
+			{ tipo: "V", cantidad: 6 },
+            { tipo: "PI", cantidad: 1 },
+			{ tipo: "AL", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Fuyes-Izohun T8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320949715201818624/Fuyes-Izohun_T8.png?ex=676b75ca&is=676a244a&hm=93b47ec6f3e9a03926115bc3bf963ab490ff9d2b2650a22d27260bf01af41d5d&", // Ruta remota
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+			{ tipo: "PI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Fynitos-Ezatam t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320950748539781170/Fynitos-Ezatam_t8.png?ex=676b76c0&is=676a2540&hm=905af2f68c678cdf325f50dab23b9a53f4dd8ec5e9392bc7ff1783beedd52652&", // Ruta remota
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
             { tipo: "A", cantidad: 1 },
-			{ tipo: "V", cantidad: 5 },
-            { tipo: "PI", cantidad: 2 },
-			{ tipo: "E", cantidad: 2 },
+			{ tipo: "V", cantidad: 4 },
+			{ tipo: "AL", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Hiles-Izizaum T8",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320953423025274994/Hiles-Izizaum_T8.png?ex=676b793e&is=676a27be&hm=7c77df9d59352ddde534e9182cf4a154af7d90d95a6f794be9b706eb9b992c01&=&format=webp&quality=lossless&width=491&height=350", // Ruta remota
+        recursos: [
+			{ tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Honites-Izizaum_T8",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320953818522980382/Honites-Izizaum_T8.png?ex=676b799c&is=676a281c&hm=5cccd16a794c575a4a54daecd4998f096d0965616d27f5bde4d47d6dab1d1cee&=&format=webp&quality=lossless&width=387&height=350", // Ruta remota
+        recursos: [
+			{ tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Honos-Oyezam T8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320954447559397379/Honos-Oyezam_T8.png?ex=676b7a32&is=676a28b2&hm=1369a0216381e7479c4b8cd1d63827acaa8d12839212be93ade8cfa7d75c5fc3&", // Ruta remota
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+			{ tipo: "PI", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Hurites-Ieatun t8",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320954857514860605/Hurites-Ieatun_t8.png?ex=676b7a94&is=676a2914&hm=594591ec5ee10b15a7b7fa9e0a303c7c50c394804d17102f8d62fe1bfeeaf747&=&format=webp&quality=lossless&width=464&height=350", // Ruta remota
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+			{ tipo: "PI", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Hynes-Ieatun t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320955199585521704/Hynes-Ieatun_t8.png?ex=676b7ae5&is=676a2965&hm=5832b12f779de26f1358b16e10b3ec02e22387367a28d63db891ae230a38db42&", // Ruta remota
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+			{ tipo: "PI", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Sebos-Oyohun t8",
+        imagen: "https://media.discordapp.net/attachments/1320932318109630464/1320955789116182689/Sebos-Oyohun_t8.png?ex=676b7b72&is=676a29f2&hm=5e9b3af2d73513ae951d8a421dd3a33b776698ea9b833f5a4092a9f092f9a060&=&format=webp&quality=lossless&width=465&height=350", // Ruta remota
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+			{ tipo: "M", cantidad: 1 },
+			{ tipo: "AL", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Silitos-Abizaum t8",
+        imagen: "https://cdn.discordapp.com/attachments/1320932318109630464/1320956404789673985/Silitos-Abizaum_t8.png?ex=676b7c05&is=676a2a85&hm=e8201b2985412dd1943c964067e67c1449013c742e1a8155a6486726c1d56e2c&", // Ruta remota
+        recursos: [
+			{ tipo: "D", cantidad: 3 },
+            { tipo: "V", cantidad: 2 },
+			{ tipo: "MI", cantidad: 1 },
+			{ tipo: "PI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "",
+        imagen: "", // Ruta remota
+        recursos: [
+			{ tipo: "", cantidad: 1 },
+            { tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
+			{ tipo: "", cantidad: 1 },
         ],
     },
 ];
