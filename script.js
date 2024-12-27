@@ -75,7 +75,7 @@ function abrirDiscord() {
 // Función para insertar el video de YouTube solo si hay un enlace disponible
 // Función para insertar el video de YouTube solo si hay un enlace disponible
 function insertarVideo() {
-    const videoLink = "https://youtu.be/WAAlqgMXgxY"; // URL del video
+    const videoLink = "https://www.youtube.com/watch?v=WAAlqgMXgxY"; // URL del video
     const container = document.getElementById("video-container");
 
     // Limpiar contenido previo
