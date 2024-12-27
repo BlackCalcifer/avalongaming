@@ -72,3 +72,40 @@ function cerrarModal() {
 function abrirDiscord() {
     window.open('https://discord.gg/kuvUzurqA9', '_blank');
 }
+// Función para insertar el video de YouTube solo si hay un enlace disponible
+// Función para insertar el video de YouTube solo si hay un enlace disponible
+function insertarVideo() {
+    const videoLink = "https://www.youtube.com/watch?v=I2i0AB0uHIg"; // URL del video
+    const container = document.getElementById("video-container");
+
+    // Limpiar contenido previo
+    container.innerHTML = "";
+
+    if (videoLink) {
+        // Extraer el ID del video
+        const videoID = videoLink.split("v=")[1]?.split("&")[0]; // Obtiene solo el ID del video
+        if (!videoID) {
+            console.error("ID del video no válido.");
+            return;
+        }
+
+        // Crear iframe del video
+        const iframe = document.createElement("iframe");
+        iframe.src = `https://www.youtube.com/embed/${videoID}`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.frameBorder = "0";
+        iframe.allow = "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture";
+        iframe.allowFullscreen = true;
+
+        // Insertar iframe en el contenedor
+        container.appendChild(iframe);
+    } else {
+        // Ocultar el contenedor si no hay video
+        container.style.display = "none";
+    }
+}
+
+// Llamar a la función al cargar la página
+window.onload = insertarVideo;
+
