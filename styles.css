@@ -218,7 +218,7 @@ header {
 }
 /* Estilos para el contenedor del video */
 #video-container {
-    display: none; /* El video no se muestra inicialmente */
+    display: yes; /* El video no se muestra inicialmente */
     position: fixed; /* Fijar el contenedor en la parte inferior */
     bottom: 20px; /* Separación desde la parte inferior de la pantalla */
     left: 20px; /* Separación desde la parte izquierda de la pantalla */
