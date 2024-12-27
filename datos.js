@@ -410,7 +410,7 @@ const datos = [
     },
 	{
         nombre: "Fonos-Aiugsum t4",
-        imagen: "recursos/Fonos-Aiugsum t4.png", // Ruta local
+        imagen: "recursos/Fonos-Aiugsum T4.png", // Ruta local
         recursos: [
             { tipo: "R", cantidad: 2 },
             { tipo: "E", cantidad: 2 },
