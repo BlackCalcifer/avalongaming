@@ -216,3 +216,35 @@ header {
     margin: 0;
     font-size: 14px;
 }
+/* Estilos para el contenedor del video */
+#video-container {
+    display: NONE; /* El video no se muestra inicialmente */
+    position: fixed; /* Fijar el contenedor en la parte inferior */
+    bottom: 20px; /* Separación desde la parte inferior de la pantalla */
+    left: 20px; /* Separación desde la parte izquierda de la pantalla */
+    text-align: center;
+    margin-top: 20px;
+    z-index: 10; /* Coloca el video por debajo de otros elementos, como los resultados */
+}
+
+/* Estilos para el iframe del video */
+#video-container iframe {
+    width: 400px;  /* Ancho del video ajustado */
+    height: 300px;  /* Alto del video ajustado */
+    border: none;
+    border-radius: 10px;  /* Bordes redondeados */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);  /* Sombra para darle profundidad */
+}
+
+/* Estilos cuando el contenedor del video es visible */
+#video-container.show {
+    display: block;  /* Muestra el video cuando se agrega la clase 'show' */
+}
+
+/* Estilos para los resultados para asegurarse de que estén por encima del video */
+#resultados {
+    position: relative;
+    z-index: 20;  /* Asegura que los resultados estén por encima del video */
+}
+
+
