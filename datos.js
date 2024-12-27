@@ -346,7 +346,7 @@ const datos = [
     },
     {
         "nombre": "Feritos-Enomaum t4",
-        "imagen": "recursos/Feritos-Enomaum T4.png",
+        "imagen": "recursos/Feritos-Enomaum t4.png",
         "recursos": [
             { "tipo": "A", "cantidad": 1 },
             { "tipo": "V", "cantidad": 1 },
