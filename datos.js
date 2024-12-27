@@ -668,7 +668,7 @@ const datos = [
     },
     {
         nombre: "Soritos-Aiaitum t6",
-        imagen: "recursos/soritos-aiaitum t6.png",
+        imagen: "recursos/soritos-aiaitum.png",
         recursos: [
             { tipo: "D", cantidad: 1 },
             { tipo: "V", cantidad: 2 },
@@ -689,7 +689,7 @@ const datos = [
     },
     {
         nombre: "Soritos-Avamsum t6",
-        imagen: "recursos/Soritos-Avamsum.png",
+        imagen: "recursos/Soritos-Avamsum T6.png",
         recursos: [
             { tipo: "V", cantidad: 6 },
             { tipo: "E", cantidad: 1 },
@@ -730,7 +730,7 @@ const datos = [
     },
 	{
 		nombre: "Synitos-Availos t6",
-		imagen: "recursos/synitos-availos t6.png",
+		imagen: "recursos/synitos-availos.png",
 		recursos: [
 			{ tipo: "D", cantidad: 1 },
 			{ tipo: "V", cantidad: 3 },
@@ -1358,13 +1358,12 @@ const datos = [
         ]
     },
     {
-        nombre: "Qiient-Al-Qinsis t6",
-        imagen: "recursos/Qiient-Al-Qinsis t6.png",
+        nombre: "Qiient-Qi-Nusom t6",
+        imagen: "recursos/Qiient-Qi-Nusom t6.png",
         recursos: [
-            { tipo: "A", cantidad: 1 },
+            { tipo: "A", cantidad: 2 },
             { tipo: "V", cantidad: 1 },
-            { tipo: "R", cantidad: 1 },
-            { tipo: "PI", cantidad: 1 }
+            { tipo: "MI", cantidad: 1 },
         ]
     },
     {
@@ -1391,7 +1390,7 @@ const datos = [
     },
 	{
         nombre: "Fynes-Unavtum t6",
-        imagen: "recursos/Fynes-Unavtum.png",
+        imagen: "recursos/Fynes-Unavtum t6.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 1 },
@@ -1550,7 +1549,7 @@ const datos = [
     },
     {
         nombre: "Qiient-Al-Nusom t6",
-        imagen: "recursos/Qiient-Al-Nusom t6.png",
+        imagen: "recursos/Qiient-Al-Nusom.png",
         recursos: [
             { tipo: "A", cantidad: 2 },
             { tipo: "V", cantidad: 1 },
@@ -2223,7 +2222,7 @@ const datos = [
     },
     {
         "nombre": "Quaent-Tersis t6",
-        "imagen": "recursos/Quaent-Tersis t4.png",
+        "imagen": "recursos/Quaent-Tersis T6.png",
         "recursos": [
             { "tipo": "A", "cantidad": 1 },
             { "tipo": "V", "cantidad": 1 },
