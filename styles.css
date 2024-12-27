@@ -218,7 +218,7 @@ header {
 }
 /* Estilos para el contenedor del video */
 #video-container {
-    display: NONE; /* El video no se muestra inicialmente */
+    display: none; /* El video no se muestra inicialmente */
     position: fixed; /* Fijar el contenedor en la parte inferior */
     bottom: 20px; /* Separación desde la parte inferior de la pantalla */
     left: 20px; /* Separación desde la parte izquierda de la pantalla */
@@ -246,5 +246,21 @@ header {
     position: relative;
     z-index: 20;  /* Asegura que los resultados estén por encima del video */
 }
+#desktop-version-btn {
+    padding: 12px 25px;
+    margin-top: 20px;
+    background: linear-gradient(45deg, #2575fc, #6a11cb); /* Fondo gradiente */
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease;
+}
 
-
+#desktop-version-btn:hover {
+    background-color: #45a049; /* Cambia el color de fondo al pasar el mouse */
+}
