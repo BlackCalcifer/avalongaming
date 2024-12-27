@@ -11,12 +11,17 @@
     <header>
         <h1>Avalon Gaming</h1>
         <input type="text" id="search-bar" placeholder="Buscar..." oninput="buscar()">
-        <button id="discord-btn" onclick="abrirDiscord()">¡Únete a nuestro gremio!</button>
+        <button id="discord-btn" onclick="abrirDiscord()">¡Discord!</button>
     </header>
 
     <main id="resultados">
         <!-- Aquí se mostrarán los resultados de la búsqueda -->
     </main>
+
+    <!-- Contenedor para el video -->
+    <div id="video-container">
+        <!-- El video se insertará aquí si se coloca el enlace -->
+    </div>
 
     <!-- Modal de detalles del juego -->
     <div id="modal" class="modal" style="display: none;">
@@ -29,14 +34,17 @@
     </div>
 
     <!-- Ventana de anuncios -->
-    <div id="anuncios" class="anuncios" style="display: block;">
+    <div id="anuncios" class="anuncios" style="display: block; color: white;">
+    <a href="https://discord.gg/5pE7HhGvpA" target="_blank" style="color: white;">
         <h4>Anuncios!</h4>
         <p>¡Si esta un mapa que nos haga falta!</p>
         <p>Envíanoslo al Discord.</p>
-    </div>
+    </a>
+</div>
+
 
     <!-- Cargar los archivos de datos y scripts -->
-	<script src="recursos.js"></script> <!-- Enlace al archivo de datos de recursos -->
+    <script src="recursos.js"></script> <!-- Enlace al archivo de datos de recursos -->
     <script src="datos.js"></script> <!-- Enlace al archivo de datos -->
     <script src="script.js"></script> <!-- Enlace al archivo de script principal -->
 </body>
