@@ -2560,5 +2560,32 @@ const datos = [
             { tipo: "V", cantidad: 7 },
             { tipo: "E", cantidad: 1 }
         ]
+    },
+	{
+        nombre: "Peros-aiataum t4",
+        imagen: "recursos/Peros-aiataum t4.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Qiient-in-nutis t6",
+        imagen: "recursos/Qiient-in-nutis t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Qiient-in-nutis t6",
+        imagen: "recursos/Silos-apenlum t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 2 },
+        ],
     }
 ];
