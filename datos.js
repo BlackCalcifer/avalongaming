@@ -252,160 +252,160 @@ const datos = [
         ],
     },
 	{
-        "nombre": "Coros-Atinaum t6",
-        "imagen": "recursos/Coros-Atinaum t6 v2.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 3 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "AL", "cantidad": 1 }
+        nombre: "Coros-Atinaum t6",
+        imagen: "recursos/Coros-Atinaum t6 v2.png",
+        recursos: [
+            { tipo: "D", cantidad: 3 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "AL", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Couos-Ayayaum t6",
-        "imagen": "recursos/Couos-Ayayaum t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 }
+        nombre: "Couos-Ayayaum t6",
+        imagen: "recursos/Couos-Ayayaum t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "M", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Curites-Exakrom t4",
-        "imagen": "recursos/Curites-Exakrom t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 8 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Curites-Exakrom t4",
+        imagen: "recursos/Curites-Exakrom t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 8 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Cuyites-Iooinum t4",
-        "imagen": "recursos/cuyites-iooinum.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Cuyites-Iooinum t4",
+        imagen: "recursos/cuyites-iooinum.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "MI", cantidad: 2 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Cynitos-Aiagsum t4",
-        "imagen": "recursos/Cynitos-Aiagsum T4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 2 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Cynitos-Aiagsum t4",
+        imagen: "recursos/Cynitos-Aiagsum T4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "PI", cantidad: 2 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Cynitos-Atatlum t6",
-        "imagen": "recursos/Cynitos-Atatlum T6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Cynitos-Atatlum t6",
+        imagen: "recursos/Cynitos-Atatlum T6.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Cynos-Avixnum t6",
-        "imagen": "recursos/Cynos-Avixnum t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 7 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 }
+        nombre: "Cynos-Avixnum t6",
+        imagen: "recursos/Cynos-Avixnum t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 7 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Fasitos-Oleraum T6",
-        "imagen": "recursos/Fasitos-Oleraum T6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 3 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
+        nombre: "Fasitos-Oleraum T6",
+        imagen: "recursos/Fasitos-Oleraum T6.png",
+        recursos: [
+            { tipo: "D", cantidad: 3 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "E", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Fasos-Ayiotum t6",
-        "imagen": "recursos/Fasos-Ayiotum T6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Fasos-Ayiotum t6",
+        imagen: "recursos/Fasos-Ayiotum T6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Feritos-Enomaum t4",
-        "imagen": "recursos/Feritos-Enomaum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Feritos-Enomaum t4",
+        imagen: "recursos/Feritos-Enomaum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Fetos-Aiaylos T6",
-        "imagen": "recursos/Fetos-Aiaylos T6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "E", "cantidad": 4 }
+        nombre: "Fetos-Aiaylos T6",
+        imagen: "recursos/Fetos-Aiaylos T6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "E", cantidad: 4 }
         ]
     },
     {
-        "nombre": "Fieos-Aiuttum t6",
-        "imagen": "recursos/Fieos-Aiuttum T6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 3 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 }
+        nombre: "Fieos-Aiuttum t6",
+        imagen: "recursos/Fieos-Aiuttum t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 3 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Filites-Izohun t8",
-        "imagen": "recursos/Filites-Izohun t8.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Filites-Izohun t8",
+        imagen: "recursos/Filites-Izohun t8.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Firos-Enomaum t4",
-        "imagen": "recursos/Firos-Enomaum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Firos-Enomaum t4",
+        imagen: "recursos/Firos-Enomaum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Firos-Ezatam t6",
-        "imagen": "recursos/firos-ezatam.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 4 },
-            { "tipo": "AL", "cantidad": 1 }
+        nombre: "Firos-Ezatam t6",
+        imagen: "recursos/firos-ezatam.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 4 },
+            { tipo: "AL", cantidad: 1 }
         ]
     },
 	{
@@ -1699,866 +1699,866 @@ const datos = [
         ]
     },
 	{
-        "nombre": "Oiritos-Eramtum t6",
-        "imagen": "recursos/Oiritos-Eramtum t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 2 }
+        nombre: "Oiritos-Eramtum t6",
+        imagen: "recursos/Oiritos-Eramtum t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "M", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Petitos-Avosrom t6",
-        "imagen": "recursos/Petitos-Avosrom t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 4 }
+        nombre: "Petitos-Avosrom t6",
+        imagen: "recursos/Petitos-Avosrom t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 3 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "E", cantidad: 4 }
         ]
     },
     {
-        "nombre": "Tasitos-Ulaurom t6",
-        "imagen": "recursos/Tasitos-Ulaurom t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 8 },
-            { "tipo": "MI", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Tasitos-Ulaurom t6",
+        imagen: "recursos/Tasitos-Ulaurom t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 8 },
+            { tipo: "MI", cantidad: 2 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Tieos-Ayoslum t4",
-        "imagen": "recursos/Tieos-Ayoslum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Tieos-Ayoslum t4",
+        imagen: "recursos/Tieos-Ayoslum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Cilos-Ofailos t4",
-        "imagen": "recursos/Cilos-Ofailos t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Cilos-Ofailos t4",
+        imagen: "recursos/Cilos-Ofailos t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Cynos-Oxaeaum t4",
-        "imagen": "recursos/Cynos-Oxaeaum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Cynos-Oxaeaum t4",
+        imagen: "recursos/Cynos-Oxaeaum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Honos-Oyezam t8",
-        "imagen": "recursos/Honos-Oyezam t8.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Honos-Oyezam t8",
+        imagen: "recursos/Honos-Oyezam t8.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Hynites-Ogozlum t6",
-        "imagen": "recursos/Hynites-Ogozlum t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "PI", "cantidad": 2 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Hynites-Ogozlum t6",
+        imagen: "recursos/Hynites-Ogozlum t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "PI", cantidad: 2 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Ouyos-Aoeuam t4",
-        "imagen": "recursos/Ouyos-Aoeuam t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Ouyos-Aoeuam t4",
+        imagen: "recursos/Ouyos-Aoeuam t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Qiitun-Et-Vietis t6",
-        "imagen": "recursos/Qiitun-Et-Vietis t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "R", "cantidad": 1 }
+        nombre: "Qiitun-Et-Vietis t6",
+        imagen: "recursos/Qiitun-Et-Vietis t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "R", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Sebos-Ugersum t6",
-        "imagen": "recursos/Sebos-Ugersum t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "M", "cantidad": 2 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Sebos-Ugersum t6",
+        imagen: "recursos/Sebos-Ugersum t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "M", cantidad: 2 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Secent-Nutum t6",
-        "imagen": "recursos/Secent-Nutum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 }
+        nombre: "Secent-Nutum t6",
+        imagen: "recursos/Secent-Nutum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "M", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Seritos-Egeylos t6",
-        "imagen": "recursos/Seritos-Egeylos t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 5 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Seritos-Egeylos t6",
+        imagen: "recursos/Seritos-Egeylos t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 5 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Settun-Odetum t6",
-        "imagen": "recursos/Settun-Odetum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 5 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 }
+        nombre: "Settun-Odetum t6",
+        imagen: "recursos/Settun-Odetum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 5 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Siros-Ofurlos t6",
-        "imagen": "recursos/Siros-Ofurlos t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 2 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Siros-Ofurlos t6",
+        imagen: "recursos/Siros-Ofurlos t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "AL", cantidad: 2 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Soros-Axaesum t4",
-        "imagen": "recursos/Soros-Axaesum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 7 },
-            { "tipo": "PI", "cantidad": 1 }
+        nombre: "Soros-Axaesum t4",
+        imagen: "recursos/Soros-Axaesum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 7 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Tieitos-Ouultum t6",
-        "imagen": "recursos/Tieitos-Ouultum t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 4 },
-            { "tipo": "PI", "cantidad": 2 },
-            { "tipo": "MI", "cantidad": 2 }
+        nombre: "Tieitos-Ouultum t6",
+        imagen: "recursos/Tieitos-Ouultum t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 4 },
+            { tipo: "PI", cantidad: 2 },
+            { tipo: "MI", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Touos-Uoemtum t4",
-        "imagen": "recursos/Touos-Uoemtum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 }
+        nombre: "Touos-Uoemtum t4",
+        imagen: "recursos/Touos-Uoemtum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "R", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Touos-Uoemtum t4",
-        "imagen": "recursos/Firitos-Alodrom t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 3 },
-            { "tipo": "M", "cantidad": 1 }
-        ]
-    },
-	{
-        "nombre": "Qiient-Qi-Odesas t6",
-        "imagen": "recursos/Qiient-Qi-Odesas T6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Sebos-Avoirom",
-        "imagen": "recursos/Sebos-Avoirom T4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 8 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Sebos-Oyohun",
-        "imagen": "recursos/Sebos-Oyohun t8.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Setent-Vietis",
-        "imagen": "recursos/Setent-Vietis T6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Casos-Uruxtum",
-        "imagen": "recursos/Casos-Uruxtum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Cieitos-Avioaum",
-        "imagen": "recursos/Cieitos-Avioaum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 2 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Fieites-Unavtum",
-        "imagen": "recursos/Fieites-Unavtum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 2 },
-            { "tipo": "E", "cantidad": 3 }
-        ]
-    },
-    {
-        "nombre": "Filos-Abalam",
-        "imagen": "recursos/Filos-Abalam T4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "E", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Fonitos-Amaurom",
-        "imagen": "recursos/Fonitos-Amaurom t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Touos-Uoemtum t4",
+        imagen: "recursos/Firitos-Alodrom t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "AL", cantidad: 3 },
+            { tipo: "M", cantidad: 1 }
         ]
     },
 	{
-        "nombre": "Fouos-Amaurom t6",
-        "imagen": "recursos/Fouos-Amaurom T6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
+        nombre: "Qiient-Qi-Odesas t6",
+        imagen: "recursos/Qiient-Qi-Odesas T6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Oasos-Eraerom",
-        "imagen": "recursos/Oasos-Eraerom t4.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 4 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Sebos-Avoirom",
+        imagen: "recursos/Sebos-Avoirom T4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 8 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Oeritos-Ecunsum",
-        "imagen": "recursos/Oeritos-Ecunsum T4.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "MI", "cantidad": 3 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
+        nombre: "Sebos-Oyohun",
+        imagen: "recursos/Sebos-Oyohun t8.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Pirites-Unatam",
-        "imagen": "recursos/Pirites-Unatam t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Setent-Vietis",
+        imagen: "recursos/Setent-Vietis T6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "M", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Pynos-Opabrom",
-        "imagen": "recursos/Pynos-Opabrom t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 4 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Casos-Uruxtum",
+        imagen: "recursos/Casos-Uruxtum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Qiient-Al-Vynsis",
-        "imagen": "recursos/Qiient-Al-Vynsis t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 }
+        nombre: "Cieitos-Avioaum",
+        imagen: "recursos/Cieitos-Avioaum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "R", cantidad: 2 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Quaent-In-Odesum",
-        "imagen": "recursos/Quaent-In-Odesum t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 }
+        nombre: "Fieites-Unavtum",
+        imagen: "recursos/Fieites-Unavtum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "MI", cantidad: 2 },
+            { tipo: "E", cantidad: 3 }
         ]
     },
     {
-        "nombre": "Sasos-Egeylos",
-        "imagen": "recursos/Sasos-Egeylos t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Filos-Abalam",
+        imagen: "recursos/Filos-Abalam T4.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Tetitos-Ayoslum",
-        "imagen": "recursos/Tetitos-Ayoslum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Casos-Aximam t6",
-        "imagen": "recursos/Casos-Aximam t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "MI", "cantidad": 2 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Fonitos-Amaurom",
+        imagen: "recursos/Fonitos-Amaurom t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
 	{
-        "nombre": "Fynitos-Egoisum t6",
-        "imagen": "recursos/Fynitos-Egoisum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Fouos-Amaurom t6",
+        imagen: "recursos/Fouos-Amaurom T6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
         ]
     },
     {
-        "nombre": "Conitos-Oxaeaum t4",
-        "imagen": "recursos/Conitos-Oxaeaum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Oasos-Eraerom",
+        imagen: "recursos/Oasos-Eraerom t4.png",
+        recursos: [
+            { tipo: "V", cantidad: 4 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Curos-Avulsum t6",
-        "imagen": "recursos/Curos-Avulsum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Oeritos-Ecunsum",
+        imagen: "recursos/Oeritos-Ecunsum T4.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "MI", cantidad: 3 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Oeritos-Oyexlos t6",
-        "imagen": "recursos/Oeritos-Oyexlos t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 4 },
-            { "tipo": "M", "cantidad": 2 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Pirites-Unatam",
+        imagen: "recursos/Pirites-Unatam t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Ooros-Ecunsum t4",
-        "imagen": "recursos/Ooros-Ecunsum t4.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 3 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Pynos-Opabrom",
+        imagen: "recursos/Pynos-Opabrom t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "V", cantidad: 4 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Puros-Amayam t4",
-        "imagen": "recursos/Puros-Amayam t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 4 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Qiient-Al-Vynsis",
+        imagen: "recursos/Qiient-Al-Vynsis t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Conitos-Ofailos t4",
-        "imagen": "recursos/Conitos-Ofailos t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Quaent-In-Odesum",
+        imagen: "recursos/Quaent-In-Odesum t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Couos-Opodam t6",
-        "imagen": "recursos/Couos-Opodam t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 3 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Sasos-Egeylos",
+        imagen: "recursos/Sasos-Egeylos t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Firos-Aiavam t6",
-        "imagen": "recursos/Firos-Aiavam t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "MI", "cantidad": 1 }
+        nombre: "Tetitos-Ayoslum",
+        imagen: "recursos/Tetitos-Ayoslum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Hetitos-Iuaerom t6",
-        "imagen": "recursos/Hetitos-Iuaerom t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "PI", "cantidad": 2 },
-            { "tipo": "E", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Quatun-Odetum t6",
-        "imagen": "recursos/Quatun-Odetum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Settun-AL-Nusis t6",
-        "imagen": "recursos/Settun-AL-Nusis t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "PI", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Xouitos-Aeoilos t4",
-        "imagen": "recursos/Xouitos-Aeoilos t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 3 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "E", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Quaent-Tersis t6",
-        "imagen": "recursos/Quaent-Tersis T6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Setent-Et-Nusum t6",
-        "imagen": "recursos/Setent-Et-Nusum t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Ceros-Aeaylum t4",
-        "imagen": "recursos/Ceros-Aeaylum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Sectun-In-Odesis t6",
-        "imagen": "recursos/Sectun-In-Odesis t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Sectun-Qinsom t6",
-        "imagen": "recursos/Sectun-Qinsom t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 }
-        ]
-    },
-    {
-        "nombre": "Setent-Qintis t6",
-        "imagen": "recursos/Setent-Qintis t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "M", "cantidad": 2 }
-        ]
-    },
-    {
-        "nombre": "Settun-In-Odetum t6",
-        "imagen": "recursos/Settun-In-Odetum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 }
+        nombre: "Casos-Aximam t6",
+        imagen: "recursos/Casos-Aximam t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "MI", cantidad: 2 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
 	{
-        "nombre": "Qiitun-Vietis t6",
-        "imagen": "recursos/Qiitun-Vietis t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "R", "cantidad": 1 }
+        nombre: "Fynitos-Egoisum t6",
+        imagen: "recursos/Fynitos-Egoisum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Quaent-In-Nusis t6",
-        "imagen": "recursos/Quaent-In-Nusis t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
+        nombre: "Conitos-Oxaeaum t4",
+        imagen: "recursos/Conitos-Oxaeaum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Tebitos-Odoxlum t6",
-        "imagen": "recursos/Tebitos-Odoxlum t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 2 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 2 },
-            { "tipo": "M", "cantidad": 1 }
+        nombre: "Curos-Avulsum t6",
+        imagen: "recursos/Curos-Avulsum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Xynitos-Obursum t6",
-        "imagen": "recursos/Xynitos-Obursum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Oeritos-Oyexlos t6",
+        imagen: "recursos/Oeritos-Oyexlos t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 4 },
+            { tipo: "M", cantidad: 2 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Conitos-Uruxtum t4",
-        "imagen": "recursos/Conitos-Uruxtum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Ooros-Ecunsum t4",
+        imagen: "recursos/Ooros-Ecunsum t4.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "MI", cantidad: 3 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Coues-Exakrom t4",
-        "imagen": "recursos/Coues-Exakrom t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 8 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Puros-Amayam t4",
+        imagen: "recursos/Puros-Amayam t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 4 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Hasos-Inayaum t6",
-        "imagen": "recursos/Hasos-Inayaum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Conitos-Ofailos t4",
+        imagen: "recursos/Conitos-Ofailos t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "E", cantidad: 2 }
         ]
     },
     {
-        "nombre": "Oieos-Umiutum t4",
-        "imagen": "recursos/Oieos-Umiutum t4.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Couos-Opodam t6",
+        imagen: "recursos/Couos-Opodam t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 3 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Secent-al-tersum t6",
-        "imagen": "recursos/Secent-al-tersum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "AL", "cantidad": 1 }
+        nombre: "Firos-Aiavam t6",
+        imagen: "recursos/Firos-Aiavam t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "MI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Setent-Al-Vietis t6",
-        "imagen": "recursos/Setent-Al-Vietis t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 }
+        nombre: "Hetitos-Iuaerom t6",
+        imagen: "recursos/Hetitos-Iuaerom t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 6 },
+            { tipo: "PI", cantidad: 2 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Soues-Uzurtum t6",
-        "imagen": "recursos/Soues-Uzurtum t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 3 },
-            { "tipo": "AL", "cantidad": 2 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Quatun-Odetum t6",
+        imagen: "recursos/Quatun-Odetum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "M", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Tuyitos-Auiusum t4",
-        "imagen": "recursos/Tuyitos-Auiusum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "R", "cantidad": 2 },
-            { "tipo": "PI", "cantidad": 1 }
+        nombre: "Settun-AL-Nusis t6",
+        imagen: "recursos/Settun-AL-Nusis t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Cebitos-Aeaylum t4",
-        "imagen": "recursos/Cebitos-Aeaylum_t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
+        nombre: "Xouitos-Aeoilos t4",
+        imagen: "recursos/Xouitos-Aeoilos t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 3 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Cetos-Obaelos t4",
-        "imagen": "recursos/Cetos-Obaelos_T4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "E", "cantidad": 2 }
+        nombre: "Quaent-Tersis t6",
+        imagen: "recursos/Quaent-Tersis T6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Coros-Alieam t4",
-        "imagen": "recursos/Coros-Alieam_T4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 2 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 }
+        nombre: "Setent-Et-Nusum t6",
+        imagen: "recursos/Setent-Et-Nusum t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Honites-Izizaum t8",
-        "imagen": "recursos/Honites-Izizaum_T8.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "M", "cantidad": 2 },
-            { "tipo": "R", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Ceros-Aeaylum t4",
+        imagen: "recursos/Ceros-Aeaylum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Pouitos-Ofairom t6",
-        "imagen": "recursos/Pouitos-Ofairom_T6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Sectun-In-Odesis t6",
+        imagen: "recursos/Sectun-In-Odesis t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Huyos-Uxeulum t4",
-        "imagen": "recursos/Huyos-Uxeulum t4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 8 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Sectun-Qinsom t6",
+        imagen: "recursos/Sectun-Qinsom t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "R", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Coritos-Avemlum t6",
-        "imagen": "recursos/Coritos-Avemlum t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 }
+        nombre: "Setent-Qintis t6",
+        imagen: "recursos/Setent-Qintis t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "M", cantidad: 2 }
+        ]
+    },
+    {
+        nombre: "Settun-In-Odetum t6",
+        imagen: "recursos/Settun-In-Odetum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "M", cantidad: 1 }
         ]
     },
 	{
-        "nombre": "Firos-Osinsum",
-        "imagen": "recursos/Firos-Osinsum t6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 3 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Qiitun-Vietis t6",
+        imagen: "recursos/Qiitun-Vietis t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "R", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Qiient-Sa-Odetis",
-        "imagen": "recursos/Qiient-Sa-Odetis t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "PI", "cantidad": 1 },
-            { "tipo": "R", "cantidad": 1 }
+        nombre: "Quaent-In-Nusis t6",
+        imagen: "recursos/Quaent-In-Nusis t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Secent-Viesum t6",
-        "imagen": "recursos/Secent-Viesum t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "PI", "cantidad": 2 }
+        nombre: "Tebitos-Odoxlum t6",
+        imagen: "recursos/Tebitos-Odoxlum t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "AL", cantidad: 2 },
+            { tipo: "M", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Settun-Tersom t6",
-        "imagen": "recursos/Settun-Tersom t6.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 2 },
-            { "tipo": "V", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 1 }
+        nombre: "Xynitos-Obursum t6",
+        imagen: "recursos/Xynitos-Obursum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Oebitos-Oyozam t6",
-        "imagen": "recursos/Oebitos-Oyozam_T6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "MI", "cantidad": 3 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Conitos-Uruxtum t4",
+        imagen: "recursos/Conitos-Uruxtum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Puros-Ofavam t6",
-        "imagen": "recursos/Puros-_Ofavam_T6.png",
-        "recursos": [
-            { "tipo": "D", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 3 },
-            { "tipo": "E", "cantidad": 4 }
+        nombre: "Coues-Exakrom t4",
+        imagen: "recursos/Coues-Exakrom t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 8 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Qiient-Nutis t6",
-        "imagen": "recursos/Qiient-Nutis t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 5 },
-            { "tipo": "AL", "cantidad": 1 },
-            { "tipo": "M", "cantidad": 1 }
+        nombre: "Hasos-Inayaum t6",
+        imagen: "recursos/Hasos-Inayaum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Setos-Avamsum t6",
-        "imagen": "recursos/Setos-Avamsum t6.png",
-        "recursos": [
-            { "tipo": "V", "cantidad": 6 },
-            { "tipo": "M", "cantidad": 1 },
-            { "tipo": "PI", "cantidad": 1 }
+        nombre: "Oieos-Umiutum t4",
+        imagen: "recursos/Oieos-Umiutum t4.png",
+        recursos: [
+            { tipo: "V", cantidad: 3 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
         ]
     },
     {
-        "nombre": "Sonitos-Ayailos t4",
-        "imagen": "recursos/Sonitos-Ayailos_T4.png",
-        "recursos": [
-            { "tipo": "A", "cantidad": 1 },
-            { "tipo": "V", "cantidad": 7 },
-            { "tipo": "E", "cantidad": 1 }
+        nombre: "Secent-al-tersum t6",
+        imagen: "recursos/Secent-al-tersum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "AL", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Setent-Al-Vietis t6",
+        imagen: "recursos/Setent-Al-Vietis t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "M", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Soues-Uzurtum t6",
+        imagen: "recursos/Soues-Uzurtum t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 3 },
+            { tipo: "AL", cantidad: 2 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Tuyitos-Auiusum t4",
+        imagen: "recursos/Tuyitos-Auiusum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "R", cantidad: 2 },
+            { tipo: "PI", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Cebitos-Aeaylum t4",
+        imagen: "recursos/Cebitos-Aeaylum_t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Cetos-Obaelos t4",
+        imagen: "recursos/Cetos-Obaelos_T4.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "E", cantidad: 2 }
+        ]
+    },
+    {
+        nombre: "Coros-Alieam t4",
+        imagen: "recursos/Coros-Alieam_T4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 2 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "R", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Honites-Izizaum t8",
+        imagen: "recursos/Honites-Izizaum_T8.png",
+        recursos: [
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 2 },
+            { tipo: "R", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Pouitos-Ofairom t6",
+        imagen: "recursos/Pouitos-Ofairom_T6.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Huyos-Uxeulum t4",
+        imagen: "recursos/Huyos-Uxeulum t4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 8 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Coritos-Avemlum t6",
+        imagen: "recursos/Coritos-Avemlum t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 5 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "R", cantidad: 1 }
+        ]
+    },
+	{
+        nombre: "Firos-Osinsum",
+        imagen: "recursos/Firos-Osinsum t6.png",
+        recursos: [
+            { tipo: "D", cantidad: 3 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+            { tipo: "E", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Qiient-Sa-Odetis",
+        imagen: "recursos/Qiient-Sa-Odetis t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "PI", cantidad: 1 },
+            { tipo: "R", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Secent-Viesum t6",
+        imagen: "recursos/Secent-Viesum t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "PI", cantidad: 2 }
+        ]
+    },
+    {
+        nombre: "Settun-Tersom t6",
+        imagen: "recursos/Settun-Tersom t6.png",
+        recursos: [
+            { tipo: "A", cantidad: 2 },
+            { tipo: "V", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Oebitos-Oyozam t6",
+        imagen: "recursos/Oebitos-Oyozam_T6.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "A", cantidad: 1 },
+            { tipo: "MI", cantidad: 3 },
+            { tipo: "E", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Puros-Ofavam t6",
+        imagen: "recursos/Puros-_Ofavam_T6.png",
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+            { tipo: "V", cantidad: 3 },
+            { tipo: "E", cantidad: 4 }
+        ]
+    },
+    {
+        nombre: "Qiient-Nutis t6",
+        imagen: "recursos/Qiient-Nutis t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 5 },
+            { tipo: "AL", cantidad: 1 },
+            { tipo: "M", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Setos-Avamsum t6",
+        imagen: "recursos/Setos-Avamsum t6.png",
+        recursos: [
+            { tipo: "V", cantidad: 6 },
+            { tipo: "M", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 }
+        ]
+    },
+    {
+        nombre: "Sonitos-Ayailos t4",
+        imagen: "recursos/Sonitos-Ayailos_T4.png",
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 7 },
+            { tipo: "E", cantidad: 1 }
         ]
     }
 ];
