@@ -388,7 +388,7 @@ const datos = [
     },
     {
         nombre: "Firos-Enomaum t4",
-        imagen: "recursos/Firos-Enomaum t4.png",
+        imagen: "recursos/firos-enomaum t4.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 1 },
@@ -499,7 +499,7 @@ const datos = [
     },
     {
         nombre: "Hasitos-Avaolum t6",
-        imagen: "recursos/Hasitos-Avaolum t6.png", // Ruta local
+        imagen: "recursos/Hasitos-Avaolum T6.png", // Ruta local
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 6 },
@@ -554,7 +554,7 @@ const datos = [
     },
     {
         nombre: "Quatun-Nusas t6",
-        imagen: "recursos/Quatun-Nusas t6.png",
+        imagen: "recursos/Quatun-Nusas T6.png",
         recursos: [
             { tipo: "V", cantidad: 5 },
             { tipo: "R", cantidad: 2 },
@@ -1794,7 +1794,7 @@ const datos = [
     },
     {
         nombre: "Qiitun-Et-Vietis t6",
-        imagen: "recursos/Qiitun-Et-Vietis t6.png",
+        imagen: "recursos/Qiitun-Et-Vietis T6.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 5 },
@@ -2175,7 +2175,7 @@ const datos = [
     },
     {
         nombre: "Firos-Aiavam t6",
-        imagen: "recursos/Firos-Aiavam t6.png",
+        imagen: "recursos/Firos-Aiavam T6.png",
         recursos: [
             { tipo: "D", cantidad: 2 },
             { tipo: "A", cantidad: 1 },
