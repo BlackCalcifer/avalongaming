@@ -25,7 +25,7 @@ function buscar() {
             .map(
                 recurso => `
                 <div class="recurso">
-                    <img src="${recursos[recurso.tipo].imagen}" alt="Recurso ${recurso.tipo}">
+                    <img src="${normalizarRutaImagen(recursos[recurso.tipo].imagen)}" alt="Recurso ${recurso.tipo}">
                     <div class="numero">${recurso.cantidad}</div>
                 </div>
             `
@@ -33,7 +33,7 @@ function buscar() {
             .join('');
 
         div.innerHTML = `
-            <img src="${juego.imagen}" alt="${juego.nombre}">
+            <img src="${normalizarRutaImagen(juego.imagen)}" alt="${juego.nombre}">
             <h3>${juego.nombre}</h3>
             <div class="recursos">${recursosHtml}</div>
         `;
@@ -41,10 +41,15 @@ function buscar() {
     });
 }
 
+// Función para normalizar la ruta de la imagen (insensible a mayúsculas)
+function normalizarRutaImagen(ruta) {
+    return ruta.toLowerCase(); // Convertir la ruta a minúsculas
+}
+
 // Función para mostrar el modal
 function mostrarModal(juego) {
     const modal = document.getElementById('modal');
-    document.getElementById('modal-imagen').src = juego.imagen;
+    document.getElementById('modal-imagen').src = normalizarRutaImagen(juego.imagen);
     document.getElementById('modal-nombre').innerText = juego.nombre;
 
     const recursosHtml = juego.recursos
@@ -52,7 +57,7 @@ function mostrarModal(juego) {
         .map(
             recurso => `
             <div class="recurso">
-                <img src="${recursos[recurso.tipo].imagen}" alt="Recurso ${recurso.tipo}">
+                <img src="${normalizarRutaImagen(recursos[recurso.tipo].imagen)}" alt="Recurso ${recurso.tipo}">
                 <div class="numero">${recurso.cantidad}</div>
             </div>
         `
@@ -72,7 +77,7 @@ function cerrarModal() {
 function abrirDiscord() {
     window.open('https://discord.gg/kuvUzurqA9', '_blank');
 }
-// Función para insertar el video de YouTube solo si hay un enlace disponible
+
 // Función para insertar el video de YouTube solo si hay un enlace disponible
 function insertarVideo() {
     const videoLink = "https://www.youtube.com/watch?v=WAAlqgMXgxY"; // URL del video
@@ -108,4 +113,3 @@ function insertarVideo() {
 
 // Llamar a la función al cargar la página
 window.onload = insertarVideo;
-
