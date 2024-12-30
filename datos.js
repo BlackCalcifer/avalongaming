@@ -1539,7 +1539,7 @@ const datos = [
     },
     {
         nombre: "Poues-Unatam t6",
-        imagen: "recursos/Poues-Unatam t6.png",
+        imagen: "recursos/Poues-Unatam T6.png",
         recursos: [
             { tipo: "D", cantidad: 2 },
             { tipo: "V", cantidad: 2 },
@@ -1742,7 +1742,7 @@ const datos = [
     },
     {
         nombre: "Cilos-Ofailos t4",
-        imagen: "recursos/Cilos-Ofailos t4.png",
+        imagen: "recursos/Cilos-Ofailos T4.png",
         recursos: [
             { tipo: "A", cantidad: 2 },
             { tipo: "V", cantidad: 3 },
@@ -1751,7 +1751,7 @@ const datos = [
     },
     {
         nombre: "Cynos-Oxaeaum t4",
-        imagen: "recursos/Cynos-Oxaeaum t4.png",
+        imagen: "recursos/Cynos-Oxaeaum T4.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 2 },
@@ -1762,7 +1762,7 @@ const datos = [
     },
     {
         nombre: "Honos-Oyezam t8",
-        imagen: "recursos/Honos-Oyezam t8.png",
+        imagen: "recursos/Honos-Oyezam T8.png",
         recursos: [
             { tipo: "D", cantidad: 1 },
             { tipo: "V", cantidad: 5 },
@@ -1851,7 +1851,7 @@ const datos = [
     },
     {
         nombre: "Soros-Axaesum t4",
-        imagen: "recursos/Soros-Axaesum t4.png",
+        imagen: "recursos/Soros-Axaesum T4.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 7 },
@@ -2099,7 +2099,7 @@ const datos = [
     },
     {
         nombre: "Conitos-Oxaeaum t4",
-        imagen: "recursos/Conitos-Oxaeaum t4.png",
+        imagen: "recursos/Conitos-Oxaeaum T4.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 2 },
@@ -2146,7 +2146,7 @@ const datos = [
     },
     {
         nombre: "Puros-Amayam t4",
-        imagen: "recursos/Puros-Amayam t4.png",
+        imagen: "recursos/Puros-Amayam T4.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 4 },
