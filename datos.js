@@ -2581,7 +2581,7 @@ const datos = [
     },
 	{
         nombre: "Silos-apenlum t4.png",
-        imagen: "recursos/Silos-apenlum t4.png", // Ruta local
+        imagen: "recursos/Silos-Apenlum t4.png", // Ruta local
         recursos: [
             { tipo: "D", cantidad: 2 },
             { tipo: "V", cantidad: 6 },
