@@ -1833,7 +1833,7 @@ const datos = [
     },
     {
         nombre: "Settun-Odetum t6",
-        imagen: "recursos/Settun-Odetum t6.png",
+        imagen: "recursos/Settun-Odetum T6.png",
         recursos: [
             { tipo: "A", cantidad: 5 },
             { tipo: "M", cantidad: 1 },
