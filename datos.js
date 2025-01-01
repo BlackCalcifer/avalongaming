@@ -471,7 +471,7 @@ const datos = [
     },
     {
         nombre: "Fuyes-Izohun t8",
-        imagen: "recursos/Fuyes-Izohun t8.png", // Ruta local
+        imagen: "recursos/Fuyes-Izohun T8.png", // Ruta local
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 5 },
@@ -602,7 +602,7 @@ const datos = [
     },
     {
         nombre: "Secent-Et-Vyntum t6",
-        imagen: "recursos/Secent-Et-Vyntum t6.png",
+        imagen: "recursos/Secent-Et-Vyntum T6.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 1 },
@@ -629,7 +629,7 @@ const datos = [
     },
     {
         nombre: "Setitos-Obobrom t6",
-        imagen: "recursos/Setitos-Obobrom t6.png",
+        imagen: "recursos/Setitos-Obobrom T6.png",
         recursos: [
             { tipo: "D", cantidad: 2 },
             { tipo: "A", cantidad: 1 },
@@ -896,7 +896,7 @@ const datos = [
 	},
 	{
 		nombre: "Xetos-Obursum t6",
-		imagen: "recursos/xetos-obursum.png",
+		imagen: "recursos/Xetos-Obursum.png",
 		recursos: [
 			{ tipo: "A", cantidad: 1 },
 			{ tipo: "V", cantidad: 5 },
@@ -1772,7 +1772,7 @@ const datos = [
     },
     {
         nombre: "Hynites-Ogozlum t6",
-        imagen: "recursos/Hynites-Ogozlum t6.png",
+        imagen: "recursos/Hynites-Ogozlum T6.png",
         recursos: [
             { tipo: "V", cantidad: 5 },
             { tipo: "PI", cantidad: 2 },
