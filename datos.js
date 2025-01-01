@@ -2164,7 +2164,7 @@ const datos = [
     },
     {
         nombre: "Couos-Opodam t6",
-        imagen: "recursos/Couos-Opodam t6.png",
+        imagen: "recursos/Couos-Opodam T6.png",
         recursos: [
             { tipo: "D", cantidad: 3 },
             { tipo: "A", cantidad: 1 },
@@ -2204,7 +2204,7 @@ const datos = [
     },
     {
         nombre: "Settun-AL-Nusis t6",
-        imagen: "recursos/Settun-AL-Nusis t6.png",
+        imagen: "recursos/Settun-AL-Nusis T6.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 5 },
