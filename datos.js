@@ -2580,8 +2580,8 @@ const datos = [
         ],
     },
 	{
-        nombre: "Silos-apenlum t6.png",
-        imagen: "recursos/Silos-apenlum t6.png", // Ruta local
+        nombre: "Silos-apenlum t4.png",
+        imagen: "recursos/Silos-apenlum t4.png", // Ruta local
         recursos: [
             { tipo: "D", cantidad: 2 },
             { tipo: "V", cantidad: 6 },
