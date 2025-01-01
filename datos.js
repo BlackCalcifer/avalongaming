@@ -1812,7 +1812,7 @@ const datos = [
     },
     {
         nombre: "Secent-Nutum t6",
-        imagen: "recursos/Secent-Nutum t6.png",
+        imagen: "recursos/Secent-Nutum T6.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 1 },
@@ -1822,7 +1822,7 @@ const datos = [
     },
     {
         nombre: "Seritos-Egeylos t6",
-        imagen: "recursos/Seritos-Egeylos t6.png",
+        imagen: "recursos/Seritos-Egeylos T6.png",
         recursos: [
             { tipo: "A", cantidad: 5 },
             { tipo: "M", cantidad: 1 },
@@ -1842,7 +1842,7 @@ const datos = [
     },
     {
         nombre: "Siros-Ofurlos t6",
-        imagen: "recursos/Siros-Ofurlos t6.png",
+        imagen: "recursos/Siros-Ofurlos T6.png",
         recursos: [
             { tipo: "D", cantidad: 2 },
             { tipo: "AL", cantidad: 2 },
