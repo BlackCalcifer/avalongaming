@@ -1860,7 +1860,7 @@ const datos = [
     },
     {
         nombre: "Tieitos-Ouultum t6",
-        imagen: "recursos/Tieitos-Ouultum t6.png",
+        imagen: "recursos/Tieitos-Ouultum T6.png",
         recursos: [
             { tipo: "D", cantidad: 1 },
             { tipo: "V", cantidad: 4 },
@@ -2122,7 +2122,7 @@ const datos = [
     },
     {
         nombre: "Oeritos-Oyexlos t6",
-        imagen: "recursos/Oeritos-Oyexlos t6.png",
+        imagen: "recursos/Oeritos-Oyexlos T6.png",
         recursos: [
             { tipo: "D", cantidad: 1 },
             { tipo: "V", cantidad: 4 },
@@ -2185,7 +2185,7 @@ const datos = [
     },
     {
         nombre: "Hetitos-Iuaerom t6",
-        imagen: "recursos/Hetitos-Iuaerom t6.png",
+        imagen: "recursos/Hetitos-Iuaerom T6.png",
         recursos: [
             { tipo: "V", cantidad: 6 },
             { tipo: "PI", cantidad: 2 },
@@ -2194,7 +2194,7 @@ const datos = [
     },
     {
         nombre: "Quatun-Odetum t6",
-        imagen: "recursos/Quatun-Odetum t6.png",
+        imagen: "recursos/Quatun-Odetum T6.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 1 },
