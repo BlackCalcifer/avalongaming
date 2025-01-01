@@ -1803,7 +1803,7 @@ const datos = [
     },
     {
         nombre: "Sebos-Ugersum t6",
-        imagen: "recursos/Sebos-Ugersum t6.png",
+        imagen: "recursos/Sebos-Ugersum T6.png",
         recursos: [
             { tipo: "V", cantidad: 5 },
             { tipo: "M", cantidad: 2 },
@@ -2155,7 +2155,7 @@ const datos = [
     },
     {
         nombre: "Conitos-Ofailos t4",
-        imagen: "recursos/Conitos-Ofailos t4.png",
+        imagen: "recursos/Conitos-Ofailos T4.png",
         recursos: [
             { tipo: "A", cantidad: 2 },
             { tipo: "V", cantidad: 3 },
