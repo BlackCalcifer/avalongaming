@@ -1870,7 +1870,7 @@ const datos = [
     },
     {
         nombre: "Touos-Uoemtum t4",
-        imagen: "recursos/Touos-Uoemtum t4.png",
+        imagen: "recursos/Touos-Uoemtum T4.png",
         recursos: [
             { tipo: "A", cantidad: 1 },
             { tipo: "V", cantidad: 6 },
@@ -2134,7 +2134,7 @@ const datos = [
     },
     {
         nombre: "Ooros-Ecunsum t4",
-        imagen: "recursos/Ooros-Ecunsum t4.png",
+        imagen: "recursos/Ooros-Ecunsum T4.png",
         recursos: [
             { tipo: "V", cantidad: 5 },
             { tipo: "M", cantidad: 1 },
