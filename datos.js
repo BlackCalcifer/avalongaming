@@ -2213,7 +2213,7 @@ const datos = [
     },
     {
         nombre: "Xouitos-Aeoilos t4",
-        imagen: "recursos/Xouitos-Aeoilos t4.png",
+        imagen: "recursos/Xouitos-Aeoilos T4.png",
         recursos: [
             { tipo: "A", cantidad: 3 },
             { tipo: "V", cantidad: 3 },
