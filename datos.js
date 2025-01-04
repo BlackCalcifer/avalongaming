@@ -2580,12 +2580,148 @@ const datos = [
         ],
     },
 	{
-        nombre: "Silos-apenlum t4.png",
+        nombre: "Silos-apenlum t4",
         imagen: "recursos/Silos-Apenlum t4.png", // Ruta local
         recursos: [
-            { tipo: "D", cantidad: 2 },
-            { tipo: "V", cantidad: 6 },
+            { tipo: "V", cantidad: 5 },
             { tipo: "M", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Horos-ohenlum t6",
+        imagen: "recursos/Horos-ohenlum t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+            { tipo: "M", cantidad: 1 },
+			{ tipo: "PI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Hieos-Aiigaum t6",
+        imagen: "recursos/Hieos-Aiigaum t6.png", // Ruta local
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 1 },
+            { tipo: "E", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Tynos-igurlum t6",
+        imagen: "recursos/Tynos-igurlum t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+			{ tipo: "A", cantidad: 1 },
+            { tipo: "V", cantidad: 1 },
+			{ tipo: "E", cantidad: 2 },
+			{ tipo: "MI", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Tynos-igurlum t6",
+        imagen: "recursos/Tynos-igurlum t6.png", // Ruta local
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 1 },
+            { tipo: "E", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Xetitos-Oneulum t6",
+        imagen: "recursos/Xetitos-Oneulum t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+			{ tipo: "A", cantidad: 2 },
+            { tipo: "E", cantidad: 1 },
+			{ tipo: "PI", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Xetitos-Oneulum t6",
+        imagen: "recursos/Xetitos-Oneulum t6.png", // Ruta local
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 1 },
+            { tipo: "E", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Tasos-Iriglos t6",
+        imagen: "recursos/Tasos-Iriglos t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+			{ tipo: "V", cantidad: 5 },
+            { tipo: "M", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Fieos-atezsum t6",
+        imagen: "recursos/Fieos-atezsum t6.png", // Ruta local
+        recursos: [
+            { tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 2 },
+            { tipo: "M", cantidad: 1 },
+			{ tipo: "AL", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Oynos-Oyozam t6",
+        imagen: "recursos/Oynos-Oyozam t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 1 },
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "MI", cantidad: 3 },
+            { tipo: "E", cantidad: 1 },
+			{ tipo: "M", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Siros-Ofurlos t6",
+        imagen: "recursos/Siros-Ofurlos t6.png", // Ruta local
+        recursos: [
+            { tipo: "D", cantidad: 2 },
+			{ tipo: "V", cantidad: 1 },
+			{ tipo: "Al", cantidad: 2 },
+            { tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Fieites-Unavtum t6",
+        imagen: "recursos/Fieites-Unavtum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "Al", cantidad: 1 },
+            { tipo: "E", cantidad: 3 },
+			{ tipo: "MI", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Oynites-Oloblum t6",
+        imagen: "recursos/Oynites-Oloblum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "D", cantidad: 2 },
+			{ tipo: "Al", cantidad: 1 },
+            { tipo: "E", cantidad: 2 },
+			{ tipo: "PI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Heritos-Inayaum t6",
+        imagen: "recursos/Heritos-Inayaum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 2 },
+			{ tipo: "V", cantidad: 2 },
+			{ tipo: "Al", cantidad: 1 },
+            { tipo: "E", cantidad: 1 },
+			{ tipo: "M", cantidad: 1 },
         ],
     }
 ];
