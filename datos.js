@@ -2723,5 +2723,63 @@ const datos = [
             { tipo: "E", cantidad: 1 },
 			{ tipo: "M", cantidad: 1 },
         ],
+    },
+	{
+        nombre: "Hures-Ugumtum t6",
+        imagen: "recursos/Hures-Ugumtum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 8 },
+			{ tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Hures-Ugumtum t4",
+        imagen: "recursos/Hures-Ugumtum t4.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 8 },
+			{ tipo: "MI", cantidad: 1 },
+            { tipo: "PI", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Heritos-Exozlos t6",
+        imagen: "recursos/Heritos-Exozlos t6.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 5 },
+            { tipo: "E", cantidad: 2 },
+			{ tipo: "PI", cantidad: 3 },
+        ],
+    },
+	{
+        nombre: "Febites-Opavun t8",
+        imagen: "recursos/Heritos-Exozlos t6.png", // Ruta local
+        recursos: [
+			{ tipo: "D", cantidad: 3 },
+            { tipo: "M", cantidad: 1 },
+			{ tipo: "v", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Setent-Duosas t6.png",
+        imagen: "recursos/Setent-Duosas t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 1 },
+            { tipo: "MI", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Peritos-Oconum.png",
+        imagen: "recursos/Peritos-Oconum.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+            { tipo: "PI", cantidad: 3 },
+			{ tipo: "R", cantidad: 1 },
+        ],
     }
 ];
