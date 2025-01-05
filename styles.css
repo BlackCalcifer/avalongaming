@@ -201,7 +201,7 @@ header {
     padding: 15px;
     border-radius: 15px; /* Bordes redondeados */
     width: 250px;
-    z-index: 1000;
+    z-index: 5; /* Cambiar z-index a 5 o menor que 20 */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     animation: animarAnuncio 1s ease-out; /* Aplica la animación */
 }
