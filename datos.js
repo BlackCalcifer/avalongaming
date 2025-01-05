@@ -2773,13 +2773,21 @@ const datos = [
         ],
     },
 	{
-        nombre: "Peritos-Oconum.png",
+        nombre: "Peritos-Oconum t6.png",
         imagen: "recursos/Peritos-Oconum.png", // Ruta local
         recursos: [
 			{ tipo: "A", cantidad: 1 },
 			{ tipo: "V", cantidad: 3 },
             { tipo: "PI", cantidad: 3 },
 			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Tonos-Obayam t6.png",
+        imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 3 },
+			{ tipo: "V", cantidad: 3 },
         ],
     }
 ];
