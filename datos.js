@@ -2755,7 +2755,7 @@ const datos = [
     },
 	{
         nombre: "Febites-Opavun t8",
-        imagen: "recursos/Heritos-Exozlos t6.png", // Ruta local
+        imagen: "recursos/Febites-Opavun t8.png", // Ruta local
         recursos: [
 			{ tipo: "D", cantidad: 3 },
             { tipo: "M", cantidad: 1 },
@@ -2783,11 +2783,30 @@ const datos = [
         ],
     },
 	{
+        nombre: "Cietos-Otatrom t6.png",
+        imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 3 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
         nombre: "Tonos-Obayam t6.png",
         imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
         recursos: [
 			{ tipo: "A", cantidad: 3 },
 			{ tipo: "V", cantidad: 3 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Tonos-Obayam t6.png",
+        imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 3 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "E", cantidad: 1 },
         ],
     }
 ];
