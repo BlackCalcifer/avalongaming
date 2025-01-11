@@ -2763,7 +2763,7 @@ const datos = [
         ],
     },
 	{
-        nombre: "Setent-Duosas t6.png",
+        nombre: "Setent-Duosas t6",
         imagen: "recursos/Setent-Duosas t6.png", // Ruta local
         recursos: [
 			{ tipo: "A", cantidad: 1 },
@@ -2773,7 +2773,7 @@ const datos = [
         ],
     },
 	{
-        nombre: "Peritos-Oconum t6.png",
+        nombre: "Peritos-Oconum t6",
         imagen: "recursos/Peritos-Oconum.png", // Ruta local
         recursos: [
 			{ tipo: "A", cantidad: 1 },
@@ -2783,7 +2783,7 @@ const datos = [
         ],
     },
 	{
-        nombre: "Cietos-Otatrom t6.png",
+        nombre: "Cietos-Otatrom t6",
         imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
         recursos: [
 			{ tipo: "A", cantidad: 3 },
@@ -2792,7 +2792,7 @@ const datos = [
         ],
     },
 	{
-        nombre: "Tonos-Obayam t6.png",
+        nombre: "Tonos-Obayam t6",
         imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
         recursos: [
 			{ tipo: "A", cantidad: 3 },
@@ -2801,12 +2801,39 @@ const datos = [
         ],
     },
 	{
-        nombre: "Tonos-Obayam t6.png",
+        nombre: "Tonos-Obayam t6",
         imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
         recursos: [
 			{ tipo: "A", cantidad: 3 },
 			{ tipo: "V", cantidad: 3 },
 			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Cietos-Otatrom t6",
+        imagen: "recursos/Cietos-Otatrom t6.png", // Ruta local
+        recursos: [
+			{ tipo: "D", cantidad: 2 },
+			{ tipo: "V", cantidad: 6 },
+			{ tipo: "M", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Petitos-Amayam t4",
+        imagen: "recursos/Petitos-Amayam t4.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 4 },
+			{ tipo: "E", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Tonos Ubuysun t8",
+        imagen: "recursos/Tonos-Aboysum t8.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 4 },
+			{ tipo: "E", cantidad: 2 },
         ],
     }
 ];
