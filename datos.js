@@ -2928,5 +2928,84 @@ const datos = [
 			{ tipo: "MI", cantidad: 1 },
 			{ tipo: "M", cantidad: 1 },
         ],
+    },
+	{
+        nombre: "Oietos-Ixakaum t4",
+        imagen: "recursos/Oietos-Ixakaum t4.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 4 },
+			{ tipo: "E", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Ceritos-Avulsum t6",
+        imagen: "recursos/Ceritos-Avulsum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 4 },
+			{ tipo: "E", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Xases-Ataglos t6",
+        imagen: "recursos/Xases-Ataglos t6.png", // Ruta local
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "AL", cantidad: 1 },
+			{ tipo: "MA", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Hebitos-Atomtum t6",
+        imagen: "recursos/Hebitos-Atomtum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
+			{ tipo: "V", cantidad: 2 },
+			{ tipo: "E", cantidad: 1 },
+			{ tipo: "MA", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Firitos-Alodrom t6",
+        imagen: "recursos/Firitos-Alodrom t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 2 },
+			{ tipo: "AL", cantidad: 3 },
+			{ tipo: "MA", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Sasitos-Ugersum t6",
+        imagen: "recursos/Sasitos-Ugersum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 5 },
+			{ tipo: "E", cantidad: 2 },
+			{ tipo: "MA", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Petitos-Amayan t6",
+        imagen: "recursos/Petitos-Amayan t6.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 5 },
+			{ tipo: "E", cantidad: 2 },
+			{ tipo: "MA", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Hasos-Agoitum t6",
+        imagen: "recursos/Hasos-Agoitum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "V", cantidad: 5 },
+			{ tipo: "E", cantidad: 1 },
+			{ tipo: "MA", cantidad: 1 },
+			{ tipo: "AL", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
     }
 ];
