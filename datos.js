@@ -2005,7 +2005,7 @@ const datos = [
         ]
     },
     {
-        nombre: "Oeritos-Ecunsum",
+        nombre: "Oeritos-Ecunsum t4",
         imagen: "recursos/Oeritos-Ecunsum T4.png",
         recursos: [
             { tipo: "V", cantidad: 5 },
@@ -2783,24 +2783,6 @@ const datos = [
         ],
     },
 	{
-        nombre: "Cietos-Otatrom t6",
-        imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
-        recursos: [
-			{ tipo: "A", cantidad: 3 },
-			{ tipo: "V", cantidad: 3 },
-			{ tipo: "E", cantidad: 1 },
-        ],
-    },
-	{
-        nombre: "Tonos-Obayam t6",
-        imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
-        recursos: [
-			{ tipo: "A", cantidad: 3 },
-			{ tipo: "V", cantidad: 3 },
-			{ tipo: "E", cantidad: 1 },
-        ],
-    },
-	{
         nombre: "Tonos-Obayam t6",
         imagen: "recursos/Tonos-Obayam t6.png", // Ruta local
         recursos: [
@@ -2831,9 +2813,120 @@ const datos = [
         nombre: "Tonos Ubuysun t8",
         imagen: "recursos/Tonos-Aboysum t8.png", // Ruta local
         recursos: [
+			{ tipo: "D", cantidad: 2 },
+			{ tipo: "V", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+			{ tipo: "AL", cantidad: 2 },
+			{ tipo: "MI", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Fynitos-Agosaum t6",
+        imagen: "recursos/Fynitos-Agosaum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 2 },
+			{ tipo: "V", cantidad: 5 },
+			{ tipo: "MI", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Hieos-Avaolum t6",
+        imagen: "recursos/Hieos-Avaolum t6.png", // Ruta local
+        recursos: [
 			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 6 },
+			{ tipo: "PI", cantidad: 1 },
+			{ tipo: "R", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Honos-Umayaum t6",
+        imagen: "recursos/Honos-Umayaum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "AL", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Honos-Umayaum t6",
+        imagen: "recursos/Honos-Umayaum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "AL", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Honos-Umayaum t6",
+        imagen: "recursos/Honos-Umayaum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "AL", cantidad: 2 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "E", cantidad: 1 },
+        ],
+    },
+	{
+        nombre: "Oetos-Ofailos t6",
+        imagen: "recursos/Oetos-Ofailos t6.png", // Ruta local
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
 			{ tipo: "V", cantidad: 4 },
+			{ tipo: "E", cantidad: 3 },
+        ],
+    },
+	{
+        nombre: "Oetos-Ofailos t6",
+        imagen: "recursos/Oetos-Ofailos t6.png", // Ruta local
+        recursos: [
+			{ tipo: "D", cantidad: 1 },
+			{ tipo: "V", cantidad: 4 },
+			{ tipo: "E", cantidad: 3 },
+        ],
+    },
+	{
+        nombre: "Peritos-Avosam t6",
+        imagen: "recursos/Peritos-Avosam t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
 			{ tipo: "E", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Pasos-Avosam t6",
+        imagen: "recursos/Pasos-Avosam t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "E", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Pasos-Avosam t6",
+        imagen: "recursos/Pasos-Avosam t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 3 },
+			{ tipo: "E", cantidad: 2 },
+        ],
+    },
+	{
+        nombre: "Turitos-Uoemtum t6",
+        imagen: "recursos/Turitos-Uoemtum t6.png", // Ruta local
+        recursos: [
+			{ tipo: "A", cantidad: 1 },
+			{ tipo: "V", cantidad: 6 },
+			{ tipo: "R", cantidad: 1 },
+			{ tipo: "MI", cantidad: 1 },
+			{ tipo: "M", cantidad: 1 },
         ],
     }
 ];
