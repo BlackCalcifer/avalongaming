@@ -2653,8 +2653,8 @@ const datos = [
         ],
     },
 	{
-        nombre: "Tasos-Iriglos t6",
-        imagen: "recursos/Tasos-Iriglos t6.png", // Ruta local
+        nombre: "Tasos-Iriglos T6",
+        imagen: "recursos/Tasos-Iriglos T6.png", // Ruta local
         recursos: [
             { tipo: "D", cantidad: 2 },
 			{ tipo: "V", cantidad: 5 },
